@@ -1,7 +1,7 @@
-streamlit
-pypdf2
-langchain
-chromadb
-sentence-transformers
-python-docx
-textblob
+streamlit>=1.48.1
+pypdf2>=3.0.1
+langchain>=0.3.27
+chromadb==0.4.22  # Use this specific version
+sentence-transformers>=3.6.0
+python-docx>=1.1.2
+textblob>=0.18.0
